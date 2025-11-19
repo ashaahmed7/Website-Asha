@@ -1,0 +1,11 @@
+body {
+  font-family: system-ui;
+  background: #6fa8dc;
+  color: white;
+  text-align: left;
+}
+
+.center-img {
+  display: block;
+  margin: 0 auto;
+}
